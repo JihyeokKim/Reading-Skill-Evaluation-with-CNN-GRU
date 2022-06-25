@@ -3,5 +3,7 @@ EEG (Electroencephalogram) based Reading Skill Evaluation with CNN (Convolutiona
 
 Not all function files and data files that are required to run matlab file and main funciton are uploaded.
 
+
+
 # Result (Leave-One-Out Cross Validation Test)
-![image](https://user-images.githubusercontent.com/99788157/175759322-aed7a61a-e327-4e11-8335-e9e7f7638bb8.png)
+![LOOC_result](https://user-images.githubusercontent.com/99788157/175759378-14271d8a-a557-4870-99f5-d6a59252ec67.png)
